@@ -3,7 +3,8 @@ A React native template with Navigator v4
 
 Preview  Application
 ------------------------------------------
-[![GitHub release](screen-shot.png)](preview)
+
+<img src="./screen-shot.png" align="right" width="200"/>
 
             ******************** STEP BY STEP ******************************
 + Requirement
